@@ -9,3 +9,7 @@ Answer: Finance
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Git merge preserves the exact history of your branches through new "merge commit" while git rebase rewrites history creating a straight linear line of commits
+
+Q4: What are you looking forward to this semester?
+
+Answer: to become more comfortable using SQL
