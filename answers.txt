@@ -5,3 +5,7 @@ Answer: to collaborate and share code with the programming community
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Git merge preserves the exact history of your branches through new "merge commit" while git rebase rewrites history creating a straight linear line of commits
